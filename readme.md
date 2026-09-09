@@ -9,3 +9,4 @@ Linux & Git Cheat Sheet
 - \mv old.txt new.txt` : Renames a file from "old.txt" to "new.txt" or moves it to a different directory.`
 - \cat readme.md` : Concatenates and displays the entire contents of the "readme.md" file on the terminal screen.`
 - \grep "error" log.txt` : Searches for and displays lines containing the keyword "error" inside "log.txt".`
+- \chmod +x script.sh` : Modifies file permissions to make the file "script.sh" executable.`
