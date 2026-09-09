@@ -13,3 +13,4 @@ Linux & Git Cheat Sheet
 
 Git Commands
 - \git status` : Displays the state of the working directory and staging area, showing tracked and untracked files.`
+- \git add readme.md` : Stages modifications or additions made to the "readme.md" file to prepare it for a commit.`
