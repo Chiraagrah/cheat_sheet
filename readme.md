@@ -10,3 +10,6 @@ Linux & Git Cheat Sheet
 - \cat readme.md` : Concatenates and displays the entire contents of the "readme.md" file on the terminal screen.`
 - \grep "error" log.txt` : Searches for and displays lines containing the keyword "error" inside "log.txt".`
 - \chmod +x script.sh` : Modifies file permissions to make the file "script.sh" executable.`
+
+Git Commands
+- \git status` : Displays the state of the working directory and staging area, showing tracked and untracked files.`
