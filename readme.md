@@ -6,3 +6,4 @@ Linux & Git Cheat Sheet
 - \mkdir cheat_sheet` : Creates a new directory named "cheat_sheet" in the current path.`
 - \rm -rf folder_name` : Forcefully and recursively removes a directory and all of its contents.`
 - \cp file.txt backup.txt` : Copies the contents of "file.txt" into a new file named "backup.txt".`
+- \mv old.txt new.txt` : Renames a file from "old.txt" to "new.txt" or moves it to a different directory.`
